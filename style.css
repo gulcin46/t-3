@@ -69,6 +69,7 @@ body {
   border: 2px solid #45354d;
   background-color: #45354d;
   border-radius: 3px;
+  transition: 2s;
 }
 #second .box .minibox h1 {
   color: #ffffff;
